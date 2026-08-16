@@ -12,3 +12,4 @@
     <img src="https://skillicons.dev/icons?i=github" width="35" />
   </a>
 </p>
+I’m a final-year B.Tech CSE (AI/ML) student at UPES, building AI-powered solutions with Python and Machine Learning, with a focus on Computer Vision, NLP, and intelligent applications.
