@@ -1,4 +1,4 @@
-## Hi there 👋
+![Tvesha Khandelwal](Blue and White Minimalist Business Consultant Profile LinkedIn Banner.png)
 
 <!--
 **tveshakhandelwal/tveshakhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
